@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Welcome!
+title: research interests
 ---
-Cal poly biochemistry
+genetics
