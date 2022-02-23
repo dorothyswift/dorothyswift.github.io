@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Group Members
-permalink: /people/
+title: Research Interests
+permalink: /Research Interests/
 ---
 
 Include information about current and past group members here. 
