@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: In the Community
 permalink: /pubs/
 ---
 
